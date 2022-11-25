@@ -10,10 +10,10 @@ This is a simple and affordable Haptic Knob System that allows everyone to disco
 - Barrel Jack Connector
 
 ## Wiring
-![Simple Haptic Knob Wiring](/images/Wiring.png)
+![Simple Haptic Knob Wiring](./Images/Wiring.png)
 
 ## 3D Printed Case
-![Simple Haptic Knob Design](/images/3Design.png)
+![Simple Haptic Knob Design](./Images/3Design.png)
 This is the 3D printed Case made to house the electronics it can be printed using either PLA or ABS on any commercial 3D printer.
 
 ## Programming
